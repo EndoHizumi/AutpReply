@@ -1,0 +1,4 @@
+config.json
+.history
+.venv
+node_module
